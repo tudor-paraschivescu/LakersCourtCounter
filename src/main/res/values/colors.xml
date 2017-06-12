@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/lakerPurple</color>
+    <color name="colorPrimaryDark">@color/lakerPurple</color>
+    <color name="lakerPurple">#552582</color>
+    <color name="lakerGold">#FDB927</color>
+</resources>

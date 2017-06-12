@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lakers Play</string>
+
+    <string name="win_a">Team A WON</string>
+    <string name="win_b">Team B WON</string>
+    <string name="draw">TIE Game</string>
+    <string name="nothing">-</string>
+
+    <string name="start">Start game</string>
+    <string name="end">End game</string>
+
+    <string name="teamA">Team A</string>
+    <string name="playerA1">I. Zubac (1p)</string>
+    <string name="playerA2">J. Clarkson (2p)</string>
+    <string name="playerA3">D. Rusell (3p)</string>
+
+    <string name="teamB">Team B</string>
+    <string name="playerB1">J. Randle (1p)</string>
+    <string name="playerB2">B. Ingram (2p)</string>
+    <string name="playerB3">N. Young (3p)</string>
+</resources>
